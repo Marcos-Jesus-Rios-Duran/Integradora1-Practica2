@@ -150,7 +150,7 @@ Las ligas son utilizadas para vincular elementos o referencias del proyecto dent
 Documentación creada por: ***Marcos Jesús Ríos Duran*** 
 
 
-<230733@utxicotepec.edu.mx><
+<230733@utxicotepec.edu.mx>
 
 
 <http://utxicotepec.edu.mx>
